@@ -15,7 +15,7 @@
 ## Goals
 * Avoid obstacles and eliminate the boss to reach the end of the song and go to the next level
 
-##Sequence in achieveing goals
+## Sequence in achieveing goals
 * As the level goes on, more bullets spawn
 * As the level progresses the boss' attacks become more complex
 

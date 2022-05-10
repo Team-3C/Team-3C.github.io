@@ -44,8 +44,9 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 ## Inspiration
 # Caliana
-
+![](images/CalianaSageBoard.jpg)
 # Chase
 ![](images/Chase.PNG)
 # Christian
 ![](images/Christian.PNG)
+

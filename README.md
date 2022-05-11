@@ -1,5 +1,8 @@
 ## A Galaxy's Hope
 
+## Trello Board:
+https://trello.com/b/hwPZWquO/ics-485-game-project
+
 ## Seed/Hook
 * Bullet-hell game combined with rhythm where you fight constellations
 

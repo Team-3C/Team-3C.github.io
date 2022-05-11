@@ -47,41 +47,94 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ### Star
 
 ##### Front
-![](images/StarFront.png)
+![](images/StarFront.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 ##### Side
-![](images/StarSide.png)
+![](images/StarSide.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 ### Meteors 
 
-1. ![](images/Meteor1.png)
-2. ![](images/Meteor2.png)
-3. ![](images/Meteor3.png)
-4. ![](images/Meteor4.png)
+1. ![](images/Meteor1.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
+2. ![](images/Meteor2.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
+3. ![](images/Meteor3.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
+4. ![](images/Meteor4.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 ##### Front 
-![](images/UrasMajorFront.png)
+![](images/UrasMajorFront.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
+
 ##### Side 
-![](images/UrsaMajorSide.png)
+![](images/UrsaMajorSide.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 ### Serpent Boss 
 
 ##### Front 
-![](images/SerpentFront.png)
+![](images/SerpentFront.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 ##### Back 
-![](images/SerpentBack.png)
+![](images/SerpentBack.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 ### Planet Model
 
 ##### Front
-![](images/Planet.png)
+![](images/Planet.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 ##### Side
-![](images/PlanetSide.png)
+![](images/PlanetSide.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 ## Final Game Screens
 
 ### Title 
-![](images/TitleScreen.png)
+![](images/TitleScreen.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 
 ### Level Select 
@@ -93,15 +146,27 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 
 ### Serpent Level
-![](images/SerpentLvl.png)
+![](images/SerpentLvl.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 
 ### Ursa Major Level 
-![](images/UsaMajorLvl.png)
+![](images/UsaMajorLvl.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 
 ### Credits 
-![](images/CreditsScene.png)
+![](images/CreditsScene.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 
 

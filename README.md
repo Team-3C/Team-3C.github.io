@@ -144,6 +144,19 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 ## Inspiration
 
+## Meet The Team
+
+### Christian
+![](images/christian.jfif)
+ICS Junior
+### Caliana
+![](images/caliana.jfif)
+ICS Junior
+### Chase
+![](images/chase.jfif)
+ICS Senior
+
+
 # Caliana
 ![](images/CalianaSageBoard.jpg)
 # Chase

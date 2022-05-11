@@ -105,6 +105,9 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ![](images/CreditsScene.png)
 
 
+## Game Demo
+
+[![Ics485Proj](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ## Inspiration
 

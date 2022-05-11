@@ -12,15 +12,7 @@ A Galaxy's Hope is a game where you play as a star that is trying to survive an 
 
 ## Gameplay Video
 
-## Embed Youtube
-
-<!---
-Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
-
-Example:     youtubeId: lDi9uFcD7XI
--->
-
-{% include youtubePlayer.html id=page.youtubeId %}
+<iframe width="560" height="315" src="https://youtu.be/wQ4Xc38gOy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Trello Board:
 (https://trello.com/b/hwPZWquO/ics-485-game-project)

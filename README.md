@@ -8,11 +8,11 @@ A Galaxy's Hope is a game where you play as a star that is trying to survive an 
 
 ## Mid-semester Prototype
 
-<iframe width="1280" height="720" src="https://youtu.be/wQ4Xc38gOy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ4Xc38gOy0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Final Prototype
 
-<iframe width="1280" height="720" src="https://www.youtube.com/watch?v=VQhlE_Lzc0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQhlE_Lzc0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Trello Board:
 (https://trello.com/b/hwPZWquO/ics-485-game-project)

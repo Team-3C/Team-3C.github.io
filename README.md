@@ -85,7 +85,11 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 
 ### Level Select 
-![](images/LvlSlct.png)
+![](images/LvlSlct.png){
+  width: 70%;
+  border: none;
+  background: none;
+}
 
 
 ### Serpent Level

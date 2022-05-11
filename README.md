@@ -1,5 +1,5 @@
 ---
-youtubeId: https://youtu.be/wQ4Xc38gOy0
+youtubeId: wQ4Xc38gOy0
 ---
 
 ## A Galaxy's Hope

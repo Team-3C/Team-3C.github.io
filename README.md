@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A Galaxy's Hope
 
 ## Seed/Hook
 * Bullet-hell game combined with rhythm where you fight constellations
@@ -59,12 +59,10 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 3. ![](images/Meteor3.png)
 4. ![](images/Meteor4.png)
 
-### Ursa Major Boss
-
 ##### Front 
-![](images/CalianaSageBoard.jpg)
+![](images/UrasMajorFront.png)
 ##### Side 
-![](images/CalianaSageBoard.jpg)
+![](images/UrsaMajorSide.png)
 
 ### Serpent Boss 
 

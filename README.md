@@ -42,7 +42,75 @@
 ## Summary
 Intense bullet-hell rhythm game about fighting constellations in space, where you play as a dying star who avoids obstacles to find a place to live
 
+## 3D Assets 
+
+### Star
+
+Front
+![](images/StarFront.png)
+
+Side
+![](images/StarSide.png)
+
+### Meteors 
+
+1
+![](images/Meteor1.png)
+2
+![](images/Meteor2.png)
+3
+![](images/Meteor3.png)
+4
+![](images/Meteor4.png)
+
+### Ursa Major Boss
+
+Front 
+![](images/CalianaSageBoard.jpg)
+Side 
+![](images/CalianaSageBoard.jpg)
+
+### Serpent Boss 
+
+Front 
+![](images/SerpentFront.png)
+Back 
+![](images/SerpentBack.png)
+
+### Planet Model
+
+Front
+![](images/Planet.png)
+Side
+![](images/PlanetSide.png)
+
+## Final Game Screens
+
+### Title 
+![](images/TitleScreen.png)
+
+
+### Level Select 
+![](images/LvlSlct.png)
+
+
+### Serpent Level
+![](images/SerpentLvl.png)
+
+
+### Ursa Major Level 
+![](images/UsaMajorLvl.png)
+
+
+### Credits 
+![](images/CreditsScene.png)
+
+
+
+
+
 ## Inspiration
+
 # Caliana
 ![](images/CalianaSageBoard.jpg)
 # Chase

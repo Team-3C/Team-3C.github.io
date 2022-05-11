@@ -101,6 +101,9 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ### Credits 
 ![](images/CreditsScene.png)
 
+![<img src="CreditsScene.png" width="250"/>](images/CreditsScene.png)
+
+
 
 
 

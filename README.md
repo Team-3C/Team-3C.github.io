@@ -121,10 +121,12 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ### Credits 
 ![](images/CreditsScene.png)
 
+## Game Prototype Demo
+[![Ics485Proj](http://img.youtube.com/vi/wQ4Xc38gOy0/0.jpg)](https://youtu.be/wQ4Xc38gOy0) 
 
-## Game Demo
-
+## Final Game Demo
 [![Ics485Proj](http://img.youtube.com/vi/VQhlE_Lzc0U/0.jpg)](https://youtu.be/VQhlE_Lzc0U)
+
 
 ## Inspiration
 

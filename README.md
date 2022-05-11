@@ -107,7 +107,7 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 ## Game Demo
 
-[![Ics485Proj](VidThumbnail.png)](https://youtu.be/VQhlE_Lzc0U)
+[![Ics485Proj](http://img.youtube.com/vi/VQhlE_Lzc0U/0.jpg)](https://youtu.be/VQhlE_Lzc0U)
 
 ## Inspiration
 

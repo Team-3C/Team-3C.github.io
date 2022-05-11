@@ -62,11 +62,23 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 3. ![](images/Meteor3.png)
 4. ![](images/Meteor4.png)
 
-##### Front 
+### JellyFish 
+
+![](images/Jellyfish.png)
+
+
+### Ursa Major 
+
+##### Prototype Model Front 
+![](images/ProtoBear.png)
+
+##### Final Model Front 
 ![](images/UrasMajorFront.png)
 
-##### Side 
+##### Final Model Side 
 ![](images/UrsaMajorSide.png)
+
+![](images/UrsaMajor_2.png)
 
 ### Serpent Boss 
 
@@ -74,6 +86,11 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 ![](images/SerpentFront.png)
 ##### Back 
 ![](images/SerpentBack.png)
+
+![](images/BigSnake.png)
+
+##### Small Snake 
+![](images/smallsnake.png)
 
 ### Planet Model
 

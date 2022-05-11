@@ -1,7 +1,3 @@
----
-youtubeId: wQ4Xc38gOy0
----
-
 ## A Galaxy's Hope
 Itch.io WebGL Player [here](https://snekuchan.itch.io/a-galaxys-hope)
 * Desktop download is available on the itch.io page at the bottom of the webpage

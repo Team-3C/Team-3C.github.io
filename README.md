@@ -22,8 +22,6 @@ Example:     youtubeId: lDi9uFcD7XI
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-{% include youtubePlayer.html id=page.youtubeId %}
-
 ## Trello Board:
 (https://trello.com/b/hwPZWquO/ics-485-game-project)
 

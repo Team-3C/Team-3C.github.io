@@ -11,6 +11,17 @@ Itch.io WebGL Player [here](https://snekuchan.itch.io/a-galaxys-hope)
 A Galaxy's Hope is a game where you play as a star that is trying to survive an onslaught attack from a celestial body. This is a bullet-hell game where you are supposed to dodge all the incoming obstacles to survive. There are two celestial bodies to play against currently, Ursa Major and Serpens. Ursa Major uses meteors to attack the star that she creates using her celestial body. Serpens creates a plethora of long snakes to constrict the player's movements to try and suffocate the small starling.
 
 ## Gameplay Video
+
+## Embed Youtube
+
+<!---
+Include this next line in your .md for Youtube videos, make sure to put your video ID up there!
+
+Example:     youtubeId: lDi9uFcD7XI
+-->
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## Trello Board:

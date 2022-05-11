@@ -46,42 +46,38 @@ Intense bullet-hell rhythm game about fighting constellations in space, where yo
 
 ### Star
 
-Front
+##### Front
 ![](images/StarFront.png)
 
-Side
+##### Side
 ![](images/StarSide.png)
 
 ### Meteors 
 
-1
-![](images/Meteor1.png)
-2
-![](images/Meteor2.png)
-3
-![](images/Meteor3.png)
-4
-![](images/Meteor4.png)
+1. ![](images/Meteor1.png)
+2. ![](images/Meteor2.png)
+3. ![](images/Meteor3.png)
+4. ![](images/Meteor4.png)
 
 ### Ursa Major Boss
 
-Front 
+##### Front 
 ![](images/CalianaSageBoard.jpg)
-Side 
+##### Side 
 ![](images/CalianaSageBoard.jpg)
 
 ### Serpent Boss 
 
-Front 
+##### Front 
 ![](images/SerpentFront.png)
-Back 
+##### Back 
 ![](images/SerpentBack.png)
 
 ### Planet Model
 
-Front
+##### Front
 ![](images/Planet.png)
-Side
+##### Side
 ![](images/PlanetSide.png)
 
 ## Final Game Screens
